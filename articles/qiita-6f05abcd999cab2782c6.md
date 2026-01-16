@@ -1,12 +1,5 @@
 # NotionのDBをObsidianに1レコード1ファイルで移行する #Notion
 
-> この記事は既存のQiita記事をObsidian管理下に取り込んだものです。
-
-## 元記事情報
-
-- Qiita Item ID: 6f05abcd999cab2782c6
-- URL: （status.yamlを参照）
-
 ## 本文
 
 ### はじめに
